@@ -1,0 +1,15 @@
+Name:                   TAP
+Version:                0.1
+Stability:              experimental
+Description:            Test anything protocol for haskell
+License:                GPL-2
+License-file:           LICENSE
+Extra-source-files:     README
+Author:                 Patrick LeBoutillier
+Build-Type:             Simple
+Cabal-Version:          >=1.8.0.2
+
+library
+    ghc-options:        -Wall
+    Build-Depends:      base >=4.2.0, regex-posix, mtl
+    Exposed-Modules:    TAP
