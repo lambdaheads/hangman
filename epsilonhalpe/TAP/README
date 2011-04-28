@@ -1,7 +1,0 @@
-Author: Martin Heuschober
-
-
-This TAP-Module was found on http://testanything.org/wiki/index.php/HaskellTapModule
-It is not tested and i did not change anything except making it a cabal module for the ease of installing.
-
-
